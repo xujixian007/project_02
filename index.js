@@ -8,3 +8,4 @@ switch (key) {
         break;
 }
 console.log(a);
+console.log(a);
