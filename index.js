@@ -9,3 +9,4 @@ switch (key) {
 }
 console.log(a);
 console.log(a);
+console.log(a);
