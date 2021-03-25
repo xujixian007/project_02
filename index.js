@@ -7,3 +7,4 @@ switch (key) {
     default:
         break;
 }
+console.log(a);
